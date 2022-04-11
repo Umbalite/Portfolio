@@ -10,3 +10,6 @@ I don't have any images of myself that I deemed appropriate, so I added a placeh
 ![Screenshot (6)](https://user-images.githubusercontent.com/100040819/162646966-1f24a952-fa17-454b-bd5f-7ad2bb5da2c4.png)
 
 ![Screenshot (7)](https://user-images.githubusercontent.com/100040819/162646968-2b14387e-1120-4d2e-8492-50a812be2c44.png)
+
+
+Last slide is to show off the hover feature I coded into my site. That is the opacity making it dissapear. 
